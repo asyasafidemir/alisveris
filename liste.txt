@@ -1,0 +1,4 @@
+1.Kullanici girisi
+2.Urun listeleme
+3.Sepete ekleme
+4.Odeme islemleri
