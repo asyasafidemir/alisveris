@@ -2,3 +2,4 @@
 2.Urun listeleme
 3.Sepete ekleme
 4.Odeme islemleri
+5.Bildirim gönderme
