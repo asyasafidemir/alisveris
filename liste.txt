@@ -1,5 +1,5 @@
-1.Sepete ekleme
+3.Sepete ekleme
 2.Urun listeleme
-3.Kullanici Girisi
+1.Kullanici Girisi
 4.Odeme islemleri
 5.Bildirim gönderme
